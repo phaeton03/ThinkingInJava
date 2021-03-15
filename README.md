@@ -1,2 +1,2 @@
 # ThinkingInJava
-Solving tasks from ThinkingInJava book. Every folder represents c chapter from this book
+Solving tasks from ThinkingInJava book. Every folder represents a chapter from this book
